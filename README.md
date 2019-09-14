@@ -1,6 +1,9 @@
 # GDscript_Weighted_Random
-Small function that gives, weighted random numbers on certain range. 
-HELLO HELLO! I made this litle funktion that gives weightened random numbers:
+HELLO HELLO!
+
+Small function that gives, weighted random numbers on certain range.
+
+I made this litle funktion that gives weightened random numbers:
 
 	func on_normal_case(arrayy,transformm):
 		var random_num=0
