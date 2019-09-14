@@ -44,4 +44,4 @@ on_normal_case([20,80,20,20,30],1)
 This give random numbers range 1-5 and bigger numbers are more likely than smaller numbers.
 
 on_normal_case([20,80,0,0,20,20,30,0,0,0,0,33],45)
-This dices between numbers 45,46,49,50,51,56 you see when there is zero it never occure.
+This throw dices between numbers 45,46,49,50,51,56 you see when there is zero it never occure.
