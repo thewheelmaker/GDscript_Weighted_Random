@@ -45,3 +45,5 @@ This give random numbers range 1-5 and bigger numbers are more likely than small
 
 on_normal_case([20,80,0,0,20,20,30,0,0,0,0,33],45)
 This throw dices between numbers 45,46,49,50,51,56 you see when there is zero it never occure.
+
+So it function returns just one random number that depends lenght of that arrayy array and transformm number, and ints in the array are probability weights that a number might occure, where that number is location on the array, pluss transformm number.
